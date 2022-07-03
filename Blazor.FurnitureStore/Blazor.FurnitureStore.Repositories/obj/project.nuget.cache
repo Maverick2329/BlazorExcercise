@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xKmMwJlWY2maFCsHWhygEE8AZK4jAU5vQlcxzs5zX7jKpGLjBwP2CZNYQXMKZ9Zq8fMNRL0XUyuIS3CGgQwoEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Training\\Back\\Blazor.FurnitureStore\\Blazor.FurnitureStore.Repositories\\Blazor.FurnitureStore.Repositories.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maverick\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512"
+  ],
+  "logs": []
+}

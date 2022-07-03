@@ -1,0 +1,15 @@
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\BalzorPokedex.Services.deps.json
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\BalzorPokedex.Services.dll
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\ref\BalzorPokedex.Services.dll
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\BalzorPokedex.Services.pdb
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\BalzorPokedex.Models.dll
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\bin\Debug\net5.0\BalzorPokedex.Models.pdb
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.csproj.AssemblyReference.cache
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.AssemblyInfoInputs.cache
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.AssemblyInfo.cs
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.csproj.CopyComplete
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.dll
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\ref\BalzorPokedex.Services.dll
+C:\Development\Training\Back\BalzorPokedex\BalzorPokedex.Services\obj\Debug\net5.0\BalzorPokedex.Services.pdb

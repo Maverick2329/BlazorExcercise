@@ -1,0 +1,12 @@
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\bin\Debug\net5.0\BlazorMusicCatalog.Models.deps.json
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\bin\Debug\net5.0\BlazorMusicCatalog.Models.dll
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\bin\Debug\net5.0\ref\BlazorMusicCatalog.Models.dll
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\bin\Debug\net5.0\BlazorMusicCatalog.Models.pdb
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.csproj.AssemblyReference.cache
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.AssemblyInfoInputs.cache
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.AssemblyInfo.cs
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.dll
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\ref\BlazorMusicCatalog.Models.dll
+C:\Development\Training\Back\BlazorMusicCatalog\BlazorMusicCatalog.Models\obj\Debug\net5.0\BlazorMusicCatalog.Models.pdb

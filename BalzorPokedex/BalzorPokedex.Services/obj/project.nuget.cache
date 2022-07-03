@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8jznc/1j1Ni926i1hE5DNVl21Hm4wTSuGO/1HFPnpcjtloDnpaAGDe+lzs0JS/iRyx8M5SzPlNAkdPw0oPtvCg==",
+  "success": true,
+  "projectFilePath": "C:\\Development\\Training\\Back\\BalzorPokedex\\BalzorPokedex.Services\\BalzorPokedex.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maverick\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

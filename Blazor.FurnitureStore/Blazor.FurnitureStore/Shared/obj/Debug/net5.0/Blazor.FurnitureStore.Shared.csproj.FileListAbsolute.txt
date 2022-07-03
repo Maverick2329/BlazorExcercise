@@ -1,0 +1,12 @@
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\bin\Debug\net5.0\Blazor.FurnitureStore.Shared.deps.json
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\bin\Debug\net5.0\Blazor.FurnitureStore.Shared.dll
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\bin\Debug\net5.0\ref\Blazor.FurnitureStore.Shared.dll
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\bin\Debug\net5.0\Blazor.FurnitureStore.Shared.pdb
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.csproj.AssemblyReference.cache
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.AssemblyInfoInputs.cache
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.AssemblyInfo.cs
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.dll
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\ref\Blazor.FurnitureStore.Shared.dll
+C:\Development\Training\Back\Blazor.FurnitureStore\Blazor.FurnitureStore\Shared\obj\Debug\net5.0\Blazor.FurnitureStore.Shared.pdb

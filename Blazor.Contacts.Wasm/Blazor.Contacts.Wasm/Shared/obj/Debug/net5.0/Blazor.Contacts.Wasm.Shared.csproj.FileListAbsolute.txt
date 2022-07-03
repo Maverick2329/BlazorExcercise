@@ -1,0 +1,12 @@
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.deps.json
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\bin\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.csproj.AssemblyReference.cache
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfoInputs.cache
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.AssemblyInfo.cs
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.csproj.CoreCompileInputs.cache
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.dll
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\ref\Blazor.Contacts.Wasm.Shared.dll
+C:\Development\Training\Back\Blazor.Contacts.Wasm\Blazor.Contacts.Wasm\Shared\obj\Debug\net5.0\Blazor.Contacts.Wasm.Shared.pdb
